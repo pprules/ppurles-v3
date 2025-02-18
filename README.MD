@@ -4,7 +4,7 @@ Property Pulse is an AI-powered real estate chatbot that helps real estate agent
 
 ## 🎮 Try It Live!
 
-**[👉 Launch Property Pulse Demo](https://property-pulse-walnut.streamlit.app)**
+**[👉 Launch Property Pulse Demo](http://www.ppulse.xyz/)**
 
 ## 🌟 Features
 
@@ -86,14 +86,3 @@ This project is MIT licensed.
 
 Special thanks to A+ Realty & Mortgage Group for their collaboration in ealtloping this soroup for t
 ## 📬 Claboration in developing this solution.
-
-## 📬 Contact
-
-Lannon Khau - khaulannon@gmail.com
-
-Projecct
-
-La[https:// - khaulannon@gmail.com
-
-Project Link: [https://github.com/yourusel.cme/p
-Prrty-pulink: [https://github.com/yourusername/property-pulse](https://githubub.com/yourusecanme/property-pulse](https://github.com/lannonthecannon/property-pulse(https://github.com/lannonthecannon/property-pulse)https://github.com/lannonthecannon/property-pulse)https://github.com/lannonthecannon/property-pulse)
