@@ -85,4 +85,3 @@ This project is MIT licensed.
 ## 👏 Acknowledgments
 
 Special thanks to A+ Realty & Mortgage Group for their collaboration in ealtloping this soroup for t
-## 📬 Claboration in developing this solution.
